@@ -1,0 +1,19 @@
+Index: t1.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>add in my Idea\r\nalter in new project\r\nalter in git\r\nalter in new-branch
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/t1.txt b/t1.txt
+--- a/t1.txt	(revision 572ee655df3f70b245ed881831c27183b61145ab)
++++ b/t1.txt	(date 1767314518176)
+@@ -1,4 +1,5 @@
+ add in my Idea
+ alter in new project
+ alter in git
+-alter in new-branch
+\ No newline at end of file
++alter in new-branch
++777
+\ No newline at end of file
