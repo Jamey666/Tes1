@@ -1,2 +1,3 @@
 add in my Idea
 alter in new project
+alter in git
